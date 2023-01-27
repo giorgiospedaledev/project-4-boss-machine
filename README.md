@@ -1,2 +1,2 @@
 # Codecademy Exercise
-This code contains an exercise from the fullstack developer course from codecademy
+This code contains an exercise for the fullstack developer course from codecademy
